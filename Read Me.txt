@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+<TITLE>Photo galler.com</Title>
+</HEAD>
+<BODY bycolor =Cyan>
+<HR size = 3 , color = "red">
+<H1> Photo galler</H1>
+<HR size = 3 , color = "green">
+<BR>
+<MAQUEE>
+<Img src="P1.JPG" width=200 heigh200>
+<Img src="P2.JPG" width=200 heigh200>
+<Img src="P3.JPG" width=200 heigh200>
+<Img src="P4.JPG" width=200 heigh200>
+<Img src="P5.JPG" width=200 heigh200>
+<Img src="P6.JPG" width=200 heigh200>
+<Img src="P7.JPG" width=200 heigh200>
+<Img src="P8.JPG" width=200 heigh200>
+<Img src="P9.JPG" width=200 heigh200>
+</MAQUEE>
+<BR><BR>
+<HR size =2 , color = "purple">
+<Font face ="Monotype Cursive" color = red> 
+<B>HAPPY Uijayi Dashami and Deeawali 2081</B>
+</FONT>
+<MAQUEE> By: Ranjak Shrestha
+         Email: epicjhonchee@gmail.com
+</MAQUEE>
+</BODY>
+</HTML>
